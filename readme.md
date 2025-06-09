@@ -1,7 +1,7 @@
 # Formulario de Acceso y Registro
 
 Este proyecto es una interfaz de usuario moderna para el acceso y registro de usuarios. Utiliza **HTML**, **CSS**, **JavaScript** y la biblioteca de iconos **Boxicons**. La interfaz permite alternar entre el formulario de **inicio de sesión** y el de **registro** dinámicamente.
-
+---
 
 ## 📁 Estructura del Proyecto
 /project-root
@@ -29,7 +29,6 @@ Este proyecto es una interfaz de usuario moderna para el acceso y registro de us
 
 ---
 
-## 📜 Descripción de Archivos
 
 ### `index.html`
 
